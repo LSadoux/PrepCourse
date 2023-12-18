@@ -1,2 +1,2 @@
 # PrepCourse
-Creación de repositorio M2 desde Github
+Muestra de creación de repositorio y su posterior clonación al escritorio desde Github - Moldulo 2.     
